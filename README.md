@@ -30,10 +30,8 @@
 
 4. **Folder Otomatis Ditambahkan ke PATH**:  
    Script akan memeriksa apakah foldernya sudah ada di `PATH`. Jika belum, folder tersebut akan ditambahkan secara otomatis.
+   Jadi setelah folder ditambahkan ke path penggunaan akan lebih simpel dengan mengetik "wsk" di cmd
 
-## Prasyarat
-- **Windows OS**: Tools ini hanya dapat dijalankan di sistem operasi Windows.
-- **Hak Administrator**: Untuk menambahkan folder ke `PATH` dan menjalankan beberapa perintah lainnya, hak administrator diperlukan.
 
 ## Cara Menjalankan
 1. Download atau clone repository ini.
