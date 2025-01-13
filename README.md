@@ -58,3 +58,58 @@ Once you have checked the password, simply press any key to close the script.
 
 Here’s what the output will look like:
 
+
+Checking the Wi-Fi list... 
+- Wi-Fi Lists:
+
+1. HomeNetwork
+2. OfficeWiFi
+3. CafeWiFi
+(1-3): 1
+
+SSID : HomeNetwork 
+
+Key Content : myWiFiPassword123
+
+
+---
+
+## Troubleshooting
+
+- **Script doesn't run with admin rights**: Ensure you right-click the script and choose "Run as administrator."
+- **No Wi-Fi profiles found**: If the script cannot find any Wi-Fi profiles, check if your Wi-Fi is turned on and make sure you have saved networks in your system.
+
+---
+
+## Screenshot
+
+![WiFi Show Key Screenshot](assets/screenshot.png)
+
+---
+
+## Contributing
+
+We welcome contributions to improve **WiFi Show Key**!
+
+### How to Contribute
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Implement your changes.
+4. Commit your changes and open a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For any questions or suggestions, feel free to open an issue or reach out via [email](mailto:0.tiny.people@gmail.com).
+
+---
+
+**Enjoy using WiFi Show Key!**
