@@ -34,13 +34,13 @@ If you want to run the script from anywhere in the Command Prompt without needin
 1. Download the `add_to_path.cmd` file from this repository.
 2. **Run `add_to_path.cmd` as Administrator**:
    - Right-click on `add_to_path.cmd` and select **Run as Administrator**.
-   - This will automatically add the folder containing `WiFiShowKey.cmd` to the system's PATH.
+   - This will automatically add the folder containing `wsk.cmd` to the system's PATH.
 3. Once added, you can run the script from any Command Prompt window by typing `wsk` and hitting **Enter**.
 
 ### Step 3: Run the Script
 
 1. If you prefer not to add it to PATH, you can also run the script directly:
-   - Right-click on the `WiFiShowKey.cmd` file.
+   - Right-click on the `wsk.cmd` file.
    - Select **Run as Administrator** to ensure the script has the necessary permissions.
 2. The script will check if it's running with administrator privileges. If not, it will automatically restart with elevated rights.
 3. Once the script runs, it will display a list of all saved Wi-Fi networks.
