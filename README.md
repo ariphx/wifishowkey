@@ -1,23 +1,48 @@
-WiFi Show Key
-WiFi Show Key is a simple tool that allows you to view the Wi-Fi passwords for all networks saved on your Windows computer. Whether you're trying to recover a forgotten password or just need to check your saved network credentials, WiFi Show Key is here to help.
+# WiFi Show Key
 
-Features
-Displays Wi-Fi Passwords: Easily view saved Wi-Fi passwords from your Windows system.
-User-friendly Interface: Choose your preferred Wi-Fi network from a list and see the password instantly.
-Administrator Privileges Check: Automatically restarts the script with administrator privileges if needed.
-No Installation Required: Just download and run the script to get started.
-Requirements
-Windows OS: This tool works on Windows 7, 8, 10, and 11.
-Administrator Privileges: The script requires administrator privileges to access saved Wi-Fi passwords.
-How to Use
-Step 1: Download the Script
-Download the WiFiShowKey.cmd script from the GitHub repository or directly from the release section.
+**WiFi Show Key** is a powerful and easy-to-use tool that allows you to view the saved Wi-Fi passwords on your Windows machine. Whether you need to recover a forgotten password or simply want to check your Wi-Fi credentials, this tool has got you covered.
 
-Step 2: Run the Script
-Right-click on the WiFiShowKey.cmd file and select Run as administrator.
-The script will automatically check if it's running with administrator privileges and restart with elevated rights if necessary.
-The list of saved Wi-Fi networks will be displayed, along with their corresponding passwords (if available).
-Select the Wi-Fi network you wish to view the password for, and the password will be shown.
-The script will clean up any temporary files used during the process.
-Step 3: Exit
-After viewing the password, the script will wait for your input before closing. Press any key to exit.
+---
+
+## Features
+
+- **View Saved Wi-Fi Passwords**: Display all Wi-Fi passwords that are saved in your Windows network settings.
+- **Administrator Privileges Check**: The script will check for administrator privileges and request them if necessary.
+- **Simple User Interface**: Choose the Wi-Fi network from a list and instantly view the password.
+- **Portable**: No installation needed. Just download and run the script!
+
+---
+
+## Requirements
+
+- **Windows OS**: Compatible with Windows 7, 8, 10, and 11.
+- **Administrator Privileges**: The script requires admin rights to access saved Wi-Fi profiles and passwords.
+
+---
+
+## How to Use
+
+### Step 1: Download the Script
+
+1. Download the `WiFiShowKey.cmd` file from the [GitHub repository](https://github.com/ariphx/wifishowkey) or from the **Releases** section of this repository.
+
+### Step 2: Run the Script
+
+1. Right-click on the `WiFiShowKey.cmd` file.
+2. Select **Run as administrator** to ensure the script has the necessary permissions.
+3. The script will check if it's running with administrator privileges. If not, it will automatically restart with elevated rights.
+4. Once the script runs, it will display a list of all saved Wi-Fi networks.
+5. Choose the Wi-Fi network you want to see the password for by typing the number next to the network name.
+6. The password will be displayed in the terminal window.
+7. After the process is complete, press any key to exit the script.
+
+### Step 3: Exit the Script
+
+Once you have checked the password, simply press any key to close the script.
+
+---
+
+## Example Output
+
+Here’s what the output will look like:
+
